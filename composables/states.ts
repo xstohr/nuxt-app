@@ -1,0 +1,1 @@
+export const favourite = () => useState<boolean>('favourite', () => false)
