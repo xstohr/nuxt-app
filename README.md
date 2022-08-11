@@ -10,4 +10,4 @@ Init project with
 ``` yarn install ```
 
 Run project with 
-``` yarn dev -o ``` (-o opens your project on localhost:3000)
+``` yarn dev -o ``` (-o opens your project on [localhost:3000](localhost:3000))
